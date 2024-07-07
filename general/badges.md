@@ -106,3 +106,12 @@ Aceste badge-uri au fost acordate jucătorilor ce au participat la evenimentul d
 | <Image src="https://i.imgur.com/8bsRuSh.png" alt="Prezentare badge" label="Snowman Quest 2023" width="50" /> | obținut de jucătorii ce au completat [Snowman Quest](../events/winter-seasonal-event#snowman-quest-⛄) de 15 ori |
 | <Image src="https://i.imgur.com/ZvPYU0i.png" alt="Prezentare badge" label="Snow Plow Cleaning 2023" width="50" /> | obținut de jucătorii ce au acumulat minim 100 de [decorațiuni de Crăciun](#christmas-decorations-🎄) în cadrul evenimentului [Snow Plow Cleaning](../events/winter-seasonal-event#snow-plow-cleaning-🚜) |
 
+### Summer 2024 Badges
+
+| Badge   | Cerință |
+| :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/tXKuHbj.png" alt="Prezentare badge" label="Liberty Summer Badge 2024" width="50" /> | obținut de jucătorii ce au completat trei activitati [Scuba Diving, Metal Scavenger si Ice Cream Stand Refill (livrarea a 50 de inghetate/zi lui Hannah)] de 50 de ori si atingerea sumei de 400,000 in cadrul jobului de vara [Summer Event](../events/liberty-summer-festival#summer-event) |
+| <Image src="https://i.imgur.com/aneZYAw.png" alt="Prezentare badge" label="Ice Cream Delivery Badge 2024" width="50" /> | obținut la atingerea sumei de $200,000 in cadrul jobului de vara. [Ice Cream Delivery](../events/liberty-summer-festival#ice-cream-delivery-🍦) |
+| <Image src="https://i.imgur.com/OJiqMWq.png" alt="Prezentare badge" label="Metal Scavenger Badge 2024" width="50" /> | obținut de jucătorii ce au completat evenimentul [Metal Scavenger](../events/liberty-summer-festival#metal-scavenger-🧈) de 20 de ori |
+| <Image src="https://i.imgur.com/oKrTiy3.png" alt="Prezentare badge" label="Scuba Diving Badge 2024" width="50" /> | obținut de jucătorii ce au completat evenimentul [Scuba Diving](../events/liberty-summer-festival#scuba-diving-🤿) de 20 de ori |
+
